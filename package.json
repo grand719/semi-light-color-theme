@@ -14,8 +14,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "MyTheme",
-        "uiTheme": "vs-dark",
+        "label": "semi-light",
+        "uiTheme": "vs-light",
         "path": "./themes/semi-light-color-theme.json"
       }
     ]
