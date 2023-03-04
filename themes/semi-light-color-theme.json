@@ -1818,7 +1818,7 @@
     "inputOption.activeForeground": "#655dbb",
     "input.placeholderForeground": "#bface270",
     "textLink.foreground": "#bface2",
-    "editor.background": "#ecf2ff",
+    "editor.background": "#e3e3ff",
     "editor.foreground": "#6c68f0",
     "editorLineNumber.foreground": "#bface2",
     "editorCursor.foreground": "#6c68f0",
