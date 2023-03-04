@@ -1,0 +1,23 @@
+{
+  "name": "semi-light",
+  "version": "1.0.0",
+  "description": "Semi light color theme",
+  "author": "Łukasz Pawłowski",
+  "license": "ISC",
+  "publisher": "grand719",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MyTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/semi-light-color-theme.json"
+      }
+    ]
+  }
+}
